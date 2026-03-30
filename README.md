@@ -28,6 +28,7 @@ The dataset is not included in this repository due to size limitations.
 
 👉 **Google Drive:**
 https://drive.google.com/drive/folders/1rd0-FnVWbz7YQTzTy-0-sBaJhCXK8OQ8
+https://drive.google.com/drive/folders/1cvHSYWu5sgbNRl80LOpcdj1JPaaI3g3V
 
 👉 **Kaggle:**
 https://www.kaggle.com/datasets/akshat103/e-waste-image-dataset
